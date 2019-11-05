@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The lab focuses on applying computional methods to develop theories and analyze complex behavior. 
 
 ### More Information
 
