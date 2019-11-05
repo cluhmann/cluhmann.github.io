@@ -6,6 +6,7 @@ permalink: /people/
 
 {: .person-name }
 ## Principal Investigator: Christian Luhmann
+![Christian Luhmann](/images/cluhmann.jpg){: .profile-photo }
 
 * Associate Professor
   * [Department of Psychology](https://www.stonybrook.edu/psychology/)
