@@ -16,7 +16,7 @@ The lab focuses on understanding complex human behavior in a variety of contexts
 
 * Learning
 
-  We are interested in how people's choices are shaped by past choices and their outcomes.
+  We are interested in how people's choices are shaped by past choices and their outcomes.  Often we study learning and decision making together.
 
 ### More
 
