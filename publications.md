@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Recent Publications
 permalink: /publications/
 ---
 
@@ -17,3 +17,5 @@ Arfer, K. B., & Luhmann, C. C. (2017). Time-preference tests fail to predict beh
 Luhmann, C. C., & Rajaram, S. (2015). Memory transmission in small groups and large networks: An agent-based model. *Psychological Science*, 26, 1909-1917.
 
 Liu, P., Safin, V., Yang, B., & Luhmann, C. C. (2015). Direct and indirect influence of altruistic behavior in a social network. *PLoS ONE*, 10(10).
+
+For older publications, please see [Google Scholar](https://scholar.google.com/citations?user=gFX4QEkAAAAJ).
