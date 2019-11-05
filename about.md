@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-The lab focuses on applying computional methods to develop theories and analyze complex behavior. 
+The lab focuses on better understanding complex human behavior in a variety of contexts.  This work employs computational methods, both those typically labeled as machine learning and more conventional statistical inference.  These methods are used to develop theories of behavior and to analyze data sets.
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[Mail me](mailto:christian.luhmann@stonybrook.edu) if you have questions.
+[Mail Dr. Luhmann](mailto:christian.luhmann@stonybrook.edu) if you have questions.
