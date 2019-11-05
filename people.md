@@ -25,7 +25,7 @@ Kelli is interested in decision-making and learning.
 
 {: .person-name }
 ## Alexandra Fronzek
-![Alexandra Fronzek](/images/alex.jpg){: .profile-photo }
+![Alexandra Fronzek](/images/alex.png){: .profile-photo }
 
 Graduate Student, Psychology, Stony Brook University (2019-current)
 Alex interested in how social interactions impact cognitive processes, especially decision making. 
