@@ -22,4 +22,4 @@ The lab focuses on understanding complex human behavior in a variety of contexts
 
 Please see our [list of publications](/publications/) for further information.
 
-[Mail Dr. Luhmann](mailto:christian.luhmann@stonybrook.edu) if you have questions.
+[Mail Dr. Luhmann](mailto:christian.luhmann@stonybrook.edu) if you have more questions.
