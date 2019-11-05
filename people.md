@@ -21,6 +21,7 @@ permalink: /people/
 ![Kelli Johnson](/images/kelli.jpg){: .profile-photo }
 
 Graduate Student, Psychology, Stony Brook University (2015-current)
+
 Kelli is interested in decision-making and learning. 
 
 {: .person-name }
@@ -28,4 +29,5 @@ Kelli is interested in decision-making and learning.
 ![Alexandra Fronzek](/images/alex.png){: .profile-photo }
 
 Graduate Student, Psychology, Stony Brook University (2019-current)
+
 Alex interested in how social interactions impact cognitive processes, especially decision making. 
