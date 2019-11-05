@@ -39,7 +39,7 @@ Philip Loatman (PhD, 2019)
 
 Eliazbeth Trimber (PhD, 2018)
 
-[Kodi Arfer](ttps://arfer.net) (PhD, 2016)
+[Kodi Arfer](https://arfer.net) (PhD, 2016)
 
 [Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm) (PhD, 2015)
 
