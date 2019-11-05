@@ -32,3 +32,11 @@ Kelli is interested in decision-making and learning.
 Graduate Student, Psychology (2019-current)
 
 Alex is interested in how social interactions impact cognitive processes, especially decision making. 
+
+
+## Alumni
+Philip Loatman (PhD, 2019)
+Eliazbeth Trimber (PhD, 2018)
+[Kodi Arfer](arfer.net) (PhD, 2016)
+[Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm) (PhD, 2015)
+Pei-Pei Liu (PhD, 2015)
