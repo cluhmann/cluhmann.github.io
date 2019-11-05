@@ -12,7 +12,7 @@ permalink: /people/
   * [Institute for Advanced Computing Science](https://www.iacs.stonybrook.edu/)
   * [Center for Behavioral Political Economy](https://www.stonybrook.edu/commcms/cbpe/)
   * [Institute for Engineering-Driven Medicine](https://www.stonybrook.edu/commcms/iedm/)
-* [Google scholar](http://scholar.google.com/citations?user=gFX4QEkAAAAJ),
+* [Google scholar](http://scholar.google.com/citations?user=gFX4QEkAAAAJ)
 * 2006–2008 postdoc with Xiao-Jing Wang (Yale Medical School)
 * 2000–206 PhD under Woo-kyoung Ahn (Vanderbilt University)
 
@@ -20,10 +20,12 @@ permalink: /people/
 ## Kelli Johnson
 ![Kelli Johnson](/images/kelli.jpg){: .profile-photo }
 
-* Graduate Student, Psychology, Stony Brook University (2015-current)
+Graduate Student, Psychology, Stony Brook University (2015-current)
+Kelli is interested in decision-making and learning. 
 
 {: .person-name }
 ## Alexandra Fronzek
 ![Alexandra Fronzek](/images/alex.jpg){: .profile-photo }
 
-* Graduate Student, Psychology, Stony Brook University (2019-current)
+Graduate Student, Psychology, Stony Brook University (2019-current)
+Alex interested in how social interactions impact cognitive processes, especially decision making. 
