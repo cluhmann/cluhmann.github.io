@@ -6,7 +6,7 @@ permalink: /publications/
 
 Bixter, M. T. & Luhmann, C. C. (in press). Delay discounting in dyads and small groups: Group leadership, status information, and actor-partner interdependence, *Journal of Experimental Social Psychology*.
 
-Mayor Torres, J. M., Clarkson, T., Stepanov, E. A., Luhmann, C. C., Lerner, M. D., & Riccardi, G. (2018). Enhanced error decoding from error-related potentials using convolutional neural networks. In Engineering in Medicine and Biology Society (EMBC), Annual International Conference of the IEEE (pp. 360-363). IEEE.
+[Mayor Torres, J. M., Clarkson, T., Stepanov, E. A., Luhmann, C. C., Lerner, M. D., & Riccardi, G. (2018). Enhanced error decoding from error-related potentials using convolutional neural networks. In Engineering in Medicine and Biology Society (EMBC), Annual International Conference of the IEEE (pp. 360-363). IEEE.](papers/torres-2018-embc.pdf)
 
 [Trimber, E. M. & Luhmann, C. C. (2017). Implicit predictions of future rewards and their electrophysiological correlates. *Behavioural Brain Research*, 333, 184-191.](papers/trimber-2017-bbr.pdf)
 
