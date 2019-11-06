@@ -20,13 +20,13 @@ permalink: /people/
 ## Kelli Johnson
 ![Kelli Johnson](/images/kelli.jpg)
 
-Graduate Student, Psychology (2015-current)  
+**Graduate Student**, Psychology (2015-current)  
 Kelli is interested in decision-making and learning.
 
 ## Alexandra Fronzek
 ![Alexandra Fronzek](/images/alex.png)
 
-Graduate Student, Psychology (2019-current)  
+**Graduate Student**, Psychology (2019-current)  
 Alex is interested in how social interactions impact cognitive processes, especially decision making. 
 
 
