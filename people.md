@@ -4,9 +4,8 @@ title: People
 permalink: /people/
 ---
 
-{: .person-name }
-## Principal Investigator: Christian Luhmann
-![Christian Luhmann](/images/cluhmann.jpg){: .profile-photo }
+## Christian Luhmann
+![Christian Luhmann](/images/cluhmann.jpg)
 
 * Associate Professor
   * [Department of Psychology](https://www.stonybrook.edu/psychology/)
@@ -17,28 +16,23 @@ permalink: /people/
 * 2006–2008 postdoc with Xiao-Jing Wang (Yale Medical School)
 * 2000–206 PhD under Woo-kyoung Ahn (Vanderbilt University)
 
-{: .person-name }
+
 ## Kelli Johnson
-![Kelli Johnson](/images/kelli.jpg){: .profile-photo }
+![Kelli Johnson](/images/kelli.jpg)
 
 Graduate Student, Psychology (2015-current)  
 Kelli is interested in decision-making and learning.
 
-{: .person-name }
 ## Alexandra Fronzek
-![Alexandra Fronzek](/images/alex.png){: .profile-photo }
+![Alexandra Fronzek](/images/alex.png)
 
 Graduate Student, Psychology (2019-current)  
 Alex is interested in how social interactions impact cognitive processes, especially decision making. 
 
 
 ## Alumni
-Philip Loatman (PhD, 2019)
-
-Eliazbeth Trimber (PhD, 2018)
-
-[Kodi Arfer](https://arfer.net) (PhD, 2016)
-
-[Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm) (PhD, 2015)
-
+Philip Loatman (PhD, 2019)  
+Eliazbeth Trimber (PhD, 2018)  
+[Kodi Arfer](https://arfer.net) (PhD, 2016)  
+[Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm) (PhD, 2015)  
 Pei-Pei Liu (PhD, 2015)
