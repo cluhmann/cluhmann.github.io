@@ -14,7 +14,7 @@ That sounds bad!  Though both of these researchers are discussing applications i
 
 To say that this is lazy thinking is an understatement.  The broader problem, however, is that the literature is littered with empirical findings that, collectively, appear to represent scientific progress but actually mean very little.  As we make clear in [the paper](http://www.sjdm.org/journal/18/18308/jdm18308.pdf), the empirical data is not good **for** the single-process theories typically implicated, but it's also not good evidence **against** these theories.  It's mush.
 
-So yeah.  I think the 
+So yeah.  I think the  
 
 ---
 
