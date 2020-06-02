@@ -1,6 +1,6 @@
 Current graduate student, Kelli Johnson, and former graduate student, [Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm), have published [an article in *Judgement and Decision Making*](http://www.sjdm.org/journal/18/18308/jdm18308.pdf).  The paper reports a meta-analysis of published associations between preferences about delayed rewards and preferences about risky rewards.  Results suggest an association that is consistently non-zero, but too weak to provide any support for existing theories.  You can read the article itself for more details.  But here, I wish to use this study to highlight a broader issue.
 
-Multiple theories, from multiple disciplines, have proposed that delay and risk influence behavior through a single, common mechanism.  The most intuitive of these (my personal opinion) suggests that delay necessarily implies risk.  Imagine lending someone $100.  Is it more plausible that this money will be repaid if it is due in a week or if it's due in 3 years?  Presumably there are a number of things that could prevent repayment: the borrower could lose it all in Vegas, the borrower could skip town, the stock market could crash, one of you could become ill, incapacitated, or even die.  Presumably each of these become more probable as the delay period is prolonged implying that delay entails risk[1].
+Multiple theories, from multiple disciplines, have proposed that delay and risk influence behavior through a single, common mechanism.  The most intuitive of these (my personal opinion) suggests that delay necessarily implies risk.  Imagine lending someone $100.  Is it more plausible that this money will be repaid if it is due in a week or if it's due in 3 years?  Presumably there are a number of things that could prevent repayment: the borrower could lose it all in Vegas, the borrower could skip town, the stock market could crash, one of you could become ill, incapacitated, or even die.  Presumably each of these become more probable as the delay period is prolonged implying that delay entails risk [1].
 
 According to this account, choices about intertemporal choices (e.g., $50 today or $100 in 2 weeks)  ought to be made using the same mechanism as risky choices (e.g., a guaranteed $50 or a 50%-50% chance of $100 or $0).  How does one evaluate such prediction?  In the studies we meta-analyzed, researchers had participants make a bunch of intertemporal choices and make a bunch of risky choices.  Preferences in each task were quantified and associations between the individual differences obsreved in each of the two tasks were evaluated.  In common practice, significant, non-zero associations are taken as evidence supporting the single-process accounts and non-significant associations are taken as evidence against the single-process accounts.  Easy!
 
@@ -19,9 +19,11 @@ So yeah.  I think the take-home messages are:
 1. Be *thoughtful* when connecting theories to empirical predictions.
 2. Assume that these connections are more complicated than you'd hope (Jolly & Chang, 2019).
 3. Distinguish between the statistical model used to evaluate predictions from the theory that predicted those predictions.
- 
+
+The end.
 
 ---
+### Notes
 
 [1] We once submitted a manuscript (Bixter & Luhmann, 2015) and one of the reviewers suggested that we simply explain to participants that the delayed rewards (e.g., $100 to be delivered in a month) were to be treated as *certain*; that they were guaranteed to be received.  But how could such a guarantee be given?  And why would a participant accept such a guarantee?
 
