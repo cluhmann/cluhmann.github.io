@@ -25,9 +25,7 @@ So yeah.  I think the take-home messages are:
 2. Assume that these connections are more complicated than you'd hope (Jolly & Chang, 2019).
 3. Distinguish between the statistical model used to evaluate predictions from the theory that predicted those predictions.
 
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text=https://cluhmann.github.io/metaJDM/" data-size="large">
-Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ---
