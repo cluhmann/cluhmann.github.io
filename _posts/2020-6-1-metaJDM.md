@@ -14,7 +14,12 @@ That sounds bad!  Though both of these researchers are discussing applications i
 
 To say that this is lazy thinking is an understatement.  The broader problem, however, is that the literature is littered with empirical findings that, collectively, appear to represent scientific progress but actually mean very little.  As we make clear in [the paper](http://www.sjdm.org/journal/18/18308/jdm18308.pdf), the empirical data is not good **for** the single-process theories typically implicated, but it's also not good evidence **against** these theories.  It's mush.
 
-So yeah.  I think the  
+So yeah.  I think the take-home messages are:
+
+1. Be *thoughtful* when connecting theories to empirical predictions.
+2. Assume that these connections are more complicated than you'd hope (Jolly & Chang, 2019).
+3. Distinguish between the statistical model used to evaluate predictions from the theory that predicted those predictions.
+ 
 
 ---
 
@@ -26,6 +31,8 @@ So yeah.  I think the
 Dasgupta, P., & Maskin, E. (2005). Uncertainty and hyperbolic discounting. American Economic Review, 95(4), 1290-1299.
 
 [Fried, E. I. (2020, February 7). Lack of theory building and testing impedes progress in the factor and network literature.](https://doi.org/10.31234/osf.io/zg84s)
+
+[Jolly, E., & Chang, L. J. (2019). The Flatland Fallacy: Moving Beyond Low–Dimensional Thinking. Topics in cognitive science, 11(2), 433-454.](https://doi.org/10.1111/tops.12404)
 
 Sozou, P. D. (1998). On hyperbolic discounting and uncertain hazard rates. Proceedings of the Royal Society of London. Series B: Biological Sciences, 265(1409), 2015-2020.
 
