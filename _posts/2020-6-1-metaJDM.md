@@ -26,7 +26,7 @@ So yeah.  I think the take-home messages are:
 3. Distinguish between the statistical model used to evaluate predictions from the theory that predicted those predictions.
 
 <a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text=https://cluhmann.github.io/metaJDM/", data-size="large">
+  href="https://twitter.com/intent/tweet?text=https://cluhmann.github.io/metaJDM/" data-size="large">
 Tweet</a>
 
 ---
