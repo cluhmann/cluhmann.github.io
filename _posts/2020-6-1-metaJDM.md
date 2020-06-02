@@ -26,6 +26,8 @@ So yeah.  I think the take-home messages are:
 [1] We once submitted a manuscript (Bixter & Luhmann, 2015) and one of the reviewers suggested that we simply explain to participants that the delayed rewards (e.g., $100 to be delivered in a month) were to be treated as *certain*; that they were guaranteed to be received.  But how could such a guarantee be given?  And why would a participant accept such a guarantee?
 
 
+### References
+
 [Bixter, M. T., & Luhmann, C. C. (2015). Evidence for implicit risk: Delay facilitates the processing of uncertainty. Journal of Behavioral Decision Making, 28(4), 347-359.](https://doi.org/10.1002/bdm.1853)
 
 Dasgupta, P., & Maskin, E. (2005). Uncertainty and hyperbolic discounting. American Economic Review, 95(4), 1290-1299.
