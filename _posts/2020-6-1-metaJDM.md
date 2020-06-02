@@ -1,3 +1,8 @@
+---
+layout: post
+title: Risk, Delay, and some Theory
+---
+
 Current graduate student, Kelli Johnson, and former graduate student, [Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm), have published [an article in *Judgement and Decision Making*](http://www.sjdm.org/journal/18/18308/jdm18308.pdf).  The paper reports a meta-analysis of published associations between preferences about delayed rewards and preferences about risky rewards.  Results suggest an association that is consistently non-zero, but too weak to provide any support for existing theories.  You can read the article itself for more details.  But here, I wish to use this study to highlight a broader issue.
 
 Multiple theories, from multiple disciplines, have proposed that delay and risk influence behavior through a single, common mechanism.  The most intuitive of these (my personal opinion) suggests that delay necessarily implies risk.  Imagine lending someone $100.  Is it more plausible that this money will be repaid if it is due in a week or if it's due in 3 years?  Presumably there are a number of things that could prevent repayment: the borrower could lose it all in Vegas, the borrower could skip town, the stock market could crash, one of you could become ill, incapacitated, or even die.  Presumably each of these become more probable as the delay period is prolonged implying that delay entails risk [1].
