@@ -24,7 +24,7 @@ Graduate Student, Psychology (2019-current)
 Alex is interested in how social interactions impact cognitive processes, especially decision making. 
 
 ## Medhini Urs
-![Medhini](/images/medhini.png  =100x100)
+![Medhini](/images/medhini.png)
 
 Graduate Student, Psychology (2020-current)  
 Medhini is interested in the cognitive factors involved in economic and social decision-making.
