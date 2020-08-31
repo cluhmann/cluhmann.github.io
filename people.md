@@ -31,9 +31,9 @@ Medhini is interested in the cognitive factors involved in economic and social d
 
 
 ## Alumni
-Kelli Johnson (PhD, 2020)
-Philip Loatman (PhD, 2019)
-Elizabeth Trimber (PhD, 2018)
-[Kodi Arfer](https://arfer.net) (PhD, 2016)
-[Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm) (PhD, 2015)
-Pei-Pei Liu (PhD, 2015)
+Kelli Johnson (PhD, 2020)  
+Philip Loatman (PhD, 2019)  
+Elizabeth Trimber (PhD, 2018)  
+[Kodi Arfer](https://arfer.net) (PhD, 2016)  
+[Michael Bixter](https://www.montclair.edu/profilepages/view_profile.php?username=bixterm) (PhD, 2015)  
+Pei-Pei Liu (PhD, 2015)  
