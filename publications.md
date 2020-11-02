@@ -4,7 +4,14 @@ title: Recent Publications
 permalink: /publications/
 ---
 
-Bixter, M. T. & Luhmann, C. C. (in press). Delay discounting in dyads and small groups: Group leadership, status information, and actor-partner interdependence, *Journal of Experimental Social Psychology*.
+
+Luhmann, C. C. & Yang, B. (in press). Mechanisms of behavioral contagion: An approximate Bayesian approach. *ASONAM*.
+
+Clouston, S. A., Richmond, L. L., Scott, S. B., Luhmann, C. C., Natale, G., Hanes, D., Zhang Y. & Smith, D. M. (2020). Pattern recognition to objectively differentiate the etiology of Cognitive Decline: Analysis of the Impact of Stroke and Alzheimer’s Disease. *Neuroepidemiology*, 1-8.
+
+Johnson, K. L., Bixter, M. T., & Luhmann, C. C. (2020). Delay discounting and risky choice: Meta-analytic evidence regarding single-process theories. *Judgment and Decision Making*, *15*(3), 381.
+
+Bixter, M. T. & Luhmann, C. C. (2020). Delay discounting in dyads and small groups: Group leadership, status information, and actor-partner interdependence, *Journal of Experimental Social Psychology*, *86*, 103902,
 
 [Mayor Torres, J. M., Clarkson, T., Stepanov, E. A., Luhmann, C. C., Lerner, M. D., & Riccardi, G. (2018). Enhanced error decoding from error-related potentials using convolutional neural networks. In Engineering in Medicine and Biology Society (EMBC), Annual International Conference of the IEEE (pp. 360-363). IEEE.](papers/torres-2018-embc.pdf)
 
