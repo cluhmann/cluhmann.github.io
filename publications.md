@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-Luhmann, C. C. & Yang, B. (in press). Mechanisms of behavioral contagion: An approximate Bayesian approach. *ASONAM*.
+Luhmann, C. C. & Yang, B. (in press). Mechanisms of behavioral contagion: An approximate Bayesian approach. *Proceedings of the IEEE/ACM  InternationalConference on Advances in Social Networks Analysis and Mining* (ASONAM), The Hague, Netherlands, December 7-10.
 
 Clouston, S. A., Richmond, L. L., Scott, S. B., Luhmann, C. C., Natale, G., Hanes, D., Zhang Y. & Smith, D. M. (2020). Pattern recognition to objectively differentiate the etiology of cognitive decline: Analysis of the impact of stroke and Alzheimer's disease. *Neuroepidemiology*, 1-8.
 
