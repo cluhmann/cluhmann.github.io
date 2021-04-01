@@ -13,7 +13,7 @@ permalink: /publications/
 
 [Johnson, K. L., Bixter, M. T., & Luhmann, C. C. (2020). Delay discounting and risky choice: Meta-analytic evidence regarding single-process theories. *Judgment and Decision Making*, *15*(3), 381.](http://journal.sjdm.org/18/18308/jdm18308.pdf)
 
-Bixter, M. T. & Luhmann, C. C. (2020). Delay discounting in dyads and small groups: Group leadership, status information, and actor-partner interdependence, *Journal of Experimental Social Psychology*, *86*, 103902,
+[Bixter, M. T. & Luhmann, C. C. (2020). Delay discounting in dyads and small groups: Group leadership, status information, and actor-partner interdependence, *Journal of Experimental Social Psychology*, *86*, 103902,](https://doi.org/10.1016/j.jesp.2019.103902)
 
 [Mayor Torres, J. M., Clarkson, T., Stepanov, E. A., Luhmann, C. C., Lerner, M. D., & Riccardi, G. (2018). Enhanced error decoding from error-related potentials using convolutional neural networks. In Engineering in Medicine and Biology Society (EMBC), Annual International Conference of the IEEE (pp. 360-363). IEEE.](papers/torres-2018-embc.pdf)
 
