@@ -7,11 +7,11 @@ permalink: /publications/
 
 [Imbriano, G., Larsen E. M., Mackin D. M., An A. K., Luhmann C. C., Mohanty A., Jin J. (2021). Online Survey of the Impact of COVID-19 Risk and Cost Estimates on Worry and Health Behavior Compliance in Young Adults, *Frontiers in Public Health*, *9*, 157, https://doi.org/10.3389/fpubh.2021.612725.](https://www.frontiersin.org/articles/10.3389/fpubh.2021.612725)
 
-Luhmann, C. C., & Yang, B. (2020). Mechanisms of behavioral contagion: An approximate Bayesian approach. *Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*, 606-610.
+[Luhmann, C. C., & Yang, B. (2020). Mechanisms of behavioral contagion: An approximate Bayesian approach. *Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*, 606-610.](https://ieeexplore.ieee.org/abstract/document/9381449)
 
-Clouston, S. A., Richmond, L. L., Scott, S. B., Luhmann, C. C., Natale, G., Hanes, D., Zhang Y. & Smith, D. M. (2020). Pattern recognition to objectively differentiate the etiology of cognitive decline: Analysis of the impact of stroke and Alzheimer's disease. *Neuroepidemiology*, 1-8.
+[Clouston, S. A., Richmond, L. L., Scott, S. B., Luhmann, C. C., Natale, G., Hanes, D., Zhang Y. & Smith, D. M. (2020). Pattern recognition to objectively differentiate the etiology of cognitive decline: Analysis of the impact of stroke and Alzheimer's disease. *Neuroepidemiology*, 1-8.](https://www.karger.com/Article/FullText/510133)
 
-Johnson, K. L., Bixter, M. T., & Luhmann, C. C. (2020). Delay discounting and risky choice: Meta-analytic evidence regarding single-process theories. *Judgment and Decision Making*, *15*(3), 381.
+[Johnson, K. L., Bixter, M. T., & Luhmann, C. C. (2020). Delay discounting and risky choice: Meta-analytic evidence regarding single-process theories. *Judgment and Decision Making*, *15*(3), 381.](http://journal.sjdm.org/18/18308/jdm18308.pdf)
 
 Bixter, M. T. & Luhmann, C. C. (2020). Delay discounting in dyads and small groups: Group leadership, status information, and actor-partner interdependence, *Journal of Experimental Social Psychology*, *86*, 103902,
 
