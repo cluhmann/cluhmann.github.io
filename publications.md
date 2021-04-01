@@ -5,7 +5,9 @@ permalink: /publications/
 ---
 
 
-Luhmann, C. C. & Yang, B. (in press). Mechanisms of behavioral contagion: An approximate Bayesian approach. *Proceedings of the IEEE/ACM  InternationalConference on Advances in Social Networks Analysis and Mining* (ASONAM), The Hague, Netherlands, December 7-10.
+[Imbriano, G., Larsen E. M., Mackin D. M., An A. K., Luhmann C. C., Mohanty A., Jin J. (2021). Online Survey of the Impact of COVID-19 Risk and Cost Estimates on Worry and Health Behavior Compliance in Young Adults, *Frontiers in Public Health*, *9*, 157, https://doi.org/10.3389/fpubh.2021.612725.](https://www.frontiersin.org/articles/10.3389/fpubh.2021.612725)
+
+Luhmann, C. C., & Yang, B. (2020). Mechanisms of behavioral contagion: An approximate Bayesian approach. *Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*, 606-610.
 
 Clouston, S. A., Richmond, L. L., Scott, S. B., Luhmann, C. C., Natale, G., Hanes, D., Zhang Y. & Smith, D. M. (2020). Pattern recognition to objectively differentiate the etiology of cognitive decline: Analysis of the impact of stroke and Alzheimer's disease. *Neuroepidemiology*, 1-8.
 
