@@ -9,6 +9,7 @@ permalink: /people/
 
 * Associate Professor
   * [Department of Psychology](https://www.stonybrook.edu/psychology/)
+  * [Department of Computer Science](https://www.cs.stonybrook.edu/)
   * [Institute for Advanced Computing Science](https://www.iacs.stonybrook.edu/)
   * [Center for Behavioral Political Economy](https://www.stonybrook.edu/commcms/cbpe/)
   * [Institute for Engineering-Driven Medicine](https://www.stonybrook.edu/commcms/iedm/)
