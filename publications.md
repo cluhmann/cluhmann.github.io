@@ -4,8 +4,9 @@ title: Recent Publications
 permalink: /publications/
 ---
 
+Mayor Torres, J.M., Clarkson, T., Hauschild, K.M., Luhmann C. C., Lerner, M.D., Riccardi, G. (in press). Facial emotions are accurately encoded in the brains of those with autism: A deep learning approach, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*.
 
-[Imbriano, G., Larsen E. M., Mackin D. M., An A. K., Luhmann C. C., Mohanty A., Jin J. (2021). Online Survey of the Impact of COVID-19 Risk and Cost Estimates on Worry and Health Behavior Compliance in Young Adults, *Frontiers in Public Health*, *9*, 157, https://doi.org/10.3389/fpubh.2021.612725.](https://www.frontiersin.org/articles/10.3389/fpubh.2021.612725)
+[Imbriano, G., Larsen E. M., Mackin D. M., An A. K., Luhmann C. C., Mohanty A., Jin J. (2021). Online survey of the impact of COVID-19 risk and cost estimates on worry and health behavior compliance in young adults, *Frontiers in Public Health*, *9*, 157, https://doi.org/10.3389/fpubh.2021.612725.](https://www.frontiersin.org/articles/10.3389/fpubh.2021.612725)
 
 [Luhmann, C. C., & Yang, B. (2020). Mechanisms of behavioral contagion: An approximate Bayesian approach. *Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*, 606-610.](https://ieeexplore.ieee.org/abstract/document/9381449)
 
