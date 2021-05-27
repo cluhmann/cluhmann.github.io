@@ -4,6 +4,8 @@ title: Recent Publications
 permalink: /publications/
 ---
 
+Maswood, R., Luhmann, C. C., & Rajaram, S. (2021) Persistence of false memories and emergence of collective false memory: collaborative recall of DRM word lists, *Memory*. https://doi.org/10.1080/09658211.2021.1928222
+ 
 Mayor Torres, J.M., Clarkson, T., Hauschild, K.M., Luhmann C. C., Lerner, M.D., Riccardi, G. (in press). Facial emotions are accurately encoded in the brains of those with autism: A deep learning approach, *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*.
 
 [Imbriano, G., Larsen E. M., Mackin D. M., An A. K., Luhmann C. C., Mohanty A., Jin J. (2021). Online survey of the impact of COVID-19 risk and cost estimates on worry and health behavior compliance in young adults, *Frontiers in Public Health*, *9*, 157, https://doi.org/10.3389/fpubh.2021.612725.](https://www.frontiersin.org/articles/10.3389/fpubh.2021.612725)
