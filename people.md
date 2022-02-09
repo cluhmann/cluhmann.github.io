@@ -18,8 +18,8 @@ permalink: /people/
 * 2000–206 PhD under Woo-kyoung Ahn (Vanderbilt University)
 
 
-## Alexandra Fronzek
-![Alexandra Fronzek](/images/alex.png)
+## Alexandra Ortmann
+![Alexandra Ortmann](/images/alex.png)
 
 PhD Student  
 Cognitive Science (2019-current)  
