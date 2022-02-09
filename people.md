@@ -15,7 +15,7 @@ permalink: /people/
   * [Institute for Engineering-Driven Medicine](https://www.stonybrook.edu/commcms/iedm/)
 * [Google scholar](http://scholar.google.com/citations?user=gFX4QEkAAAAJ)
 * 2006–2008 postdoc with Xiao-Jing Wang (Yale Medical School)
-* 2000–206 PhD under Woo-kyoung Ahn (Vanderbilt University)
+* 2000–2006 PhD under Woo-kyoung Ahn (Vanderbilt University)
 
 
 ## Alexandra Ortmann
