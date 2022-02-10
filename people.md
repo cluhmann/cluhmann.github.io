@@ -28,8 +28,8 @@ Alex is interested in how social interactions impact cognitive processes, especi
 ## Mengxing Wang
 ![Mengxing](/images/mengxing.png)
 
-PhD Student
-Clinical Psychology (2019-current)
+PhD Student  
+Clinical Psychology (2019-current)  
 Mengxing is interested in the mechanisms and classification of psychopathology.
 
 ## Medhini Urs
