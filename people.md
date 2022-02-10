@@ -26,6 +26,7 @@ Cognitive Science (2019-current)
 Alex is interested in how social interactions impact cognitive processes, especially decision making. 
 
 ## Mengxing Wang
+![Mengxing](/images/mengxing.png)
 
 PhD Student
 Clinical Psychology (2019-current)
