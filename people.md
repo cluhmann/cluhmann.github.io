@@ -25,12 +25,25 @@ PhD Student
 Cognitive Science (2019-current)  
 Alex is interested in how social interactions impact cognitive processes, especially decision making. 
 
+## Mengxing Wang
+
+PhD Student
+Clinical Psychology (2019-current)
+Mengxing is interested in the mechanisms and classification of psychopathology.
+
 ## Medhini Urs
 ![Medhini](/images/medhini.png)
 
 PhD Student  
 Cognitive Science (2020-current)  
 Medhini is interested in the cognitive factors involved in economic and social decision-making.
+
+## Weiling Li
+![Weiling](/images/weiling.png)
+
+PhD Student  
+Cognitive Science (2021-current)  
+Weiling is interested in how AI affects decision-making processes in both individuals and groups. 
 
 
 ## Alumni
