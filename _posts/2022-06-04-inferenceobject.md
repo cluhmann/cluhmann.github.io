@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: PyMC & Inference Data
 ---
-# PyMC & Inference Data: Parameter Arrays, & Posteriors
 Created by Christian Luhmann
 - [xarray](#xarray)
 - [Example Data](#data)
@@ -2452,7 +2451,11 @@ with pm.Model() as unlabeled_model:
     # per-group prior
     mu = pm.Normal('mu', mu=mu_hyper, sigma=15, shape=n_sex)
     # likelihood
-    likelihood = pm.Normal('likelihood', mu=mu[sex_idx], sigma=15, observed=df['bp'])
+    likelihood = pm.Normal('likelihood',
+                           mu=mu[sex_idx],
+                           sigma=15,
+                           observed=df['bp']
+                          )
 ```
 
 
