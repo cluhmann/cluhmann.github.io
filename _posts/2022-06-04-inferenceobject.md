@@ -51,7 +51,14 @@ Here we will use this numpy array to create an xarray DataArray.
 
 
 ```python
-data = xr.DataArray(npdata, dims=("user", "day"), coords={"user": ['Alice', 'Bob'], "day":["yesterday", "today", "tomorrow"]})
+data = xr.DataArray(npdata,
+                    dims=("user", "day"),
+                    coords={"user": 
+                            ['Alice', 'Bob'],
+                            "day":["yesterday",
+                                   "today",
+                                   "tomorrow"]})
+                            
 data
 ```
 
@@ -1578,9 +1585,12 @@ var2 = xr.DataArray(rng.standard_normal(size=(2, 2)),
                    )
 var3 = xr.DataArray(rng.standard_normal(size=(2, 2)),
                     dims=("a", "b"),
-                    coords={"a": [4.2, 11.8], "b":['Geneva','London']}
+                    coords={"a": [4.2, 11.8],
+                            "b":['Geneva','London']}
                    )
-ds = xr.Dataset(dict(orig=data, v2=var2, v3=var3))
+ds = xr.Dataset(dict(orig=data,
+                     v2=var2,
+                     v3=var3))
 ds
 ```
 
@@ -2448,7 +2458,11 @@ with pm.Model() as unlabeled_model:
     # per-group prior
     mu = pm.Normal('mu', mu=mu_hyper, sigma=15, shape=n_sex)
     # likelihood
-    likelihood = pm.Normal('likelihood', mu=mu[sex_idx], sigma=15, observed=df['bp'])
+    likelihood = pm.Normal('likelihood',
+                           mu=mu[sex_idx],
+                           sigma=15,
+                           observed=df['bp']
+                          )
 ```
 
 
