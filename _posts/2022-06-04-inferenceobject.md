@@ -11,7 +11,7 @@ Created by Christian Luhmann
 - [Wrap-Up](#wrapup)
 
 
-```python
+{% highlight python linenos %}
 import arviz as az
 import matplotlib.pyplot as plt
 import numpy as np
@@ -22,7 +22,7 @@ import xarray as xr
 
 az.style.use("arviz-darkgrid")
 rng = np.random.default_rng(101010)
-```
+{% endhighlight %}
 
     /home/xian/anaconda3/envs/pymc-dev-py39/lib/python3.9/site-packages/pkg_resources/__init__.py:123: PkgResourcesDeprecationWarning: main is an invalid version and will not be supported in a future release
       warnings.warn(
