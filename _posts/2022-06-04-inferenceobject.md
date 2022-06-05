@@ -53,8 +53,7 @@ Here we will use this numpy array to create an xarray DataArray.
 ```python
 data = xr.DataArray(npdata,
                     dims=("user", "day"),
-                    coords={"user": 
-                            ['Alice', 'Bob'],
+                    coords={"user": ['Alice', 'Bob'],
                             "day":["yesterday",
                                    "today",
                                    "tomorrow"]})
@@ -2909,76 +2908,11 @@ az.summary(unlabeled_idata)
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>mean</th>
-      <th>sd</th>
-      <th>hdi_3%</th>
-      <th>hdi_97%</th>
-      <th>mcse_mean</th>
-      <th>mcse_sd</th>
-      <th>ess_bulk</th>
-      <th>ess_tail</th>
-      <th>r_hat</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>mu_hyper</th>
-      <td>125.107</td>
-      <td>9.012</td>
-      <td>107.842</td>
-      <td>141.253</td>
-      <td>0.171</td>
-      <td>0.122</td>
-      <td>2773.0</td>
-      <td>1555.0</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>mu[0]</th>
-      <td>124.983</td>
-      <td>1.484</td>
-      <td>122.392</td>
-      <td>127.974</td>
-      <td>0.027</td>
-      <td>0.019</td>
-      <td>2898.0</td>
-      <td>1531.0</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>mu[1]</th>
-      <td>129.874</td>
-      <td>1.461</td>
-      <td>127.117</td>
-      <td>132.524</td>
-      <td>0.027</td>
-      <td>0.019</td>
-      <td>2902.0</td>
-      <td>1537.0</td>
-      <td>1.0</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
+|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** | **mcse_mean** | **mcse_sd** | **ess_bulk** | **ess_tail** | **r_hat** |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **mu_hyper** | 125.107 | 9.012 | 107.842 | 141.253 | 0.171 | 0.122 | 2773.0 | 1555.0 | 1.0 |
+| **mu[0]** | 124.983 | 1.484 | 122.392 | 127.974 | 0.027 | 0.019 | 2898.0 | 1531.0 | 1.0 |
+| **mu[1]** | 129.874 | 1.461 | 127.117 | 132.524 | 0.027 | 0.019 | 2902.0 | 1537.0 | 1.0 |
 
 
 We can also investigate the posterior directly.  Let's calculate the means of each group.
@@ -3850,75 +3784,11 @@ az.summary(labeled_idata)
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>mean</th>
-      <th>sd</th>
-      <th>hdi_3%</th>
-      <th>hdi_97%</th>
-      <th>mcse_mean</th>
-      <th>mcse_sd</th>
-      <th>ess_bulk</th>
-      <th>ess_tail</th>
-      <th>r_hat</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>mu_hyper</th>
-      <td>124.935</td>
-      <td>9.011</td>
-      <td>107.734</td>
-      <td>141.650</td>
-      <td>0.173</td>
-      <td>0.123</td>
-      <td>2728.0</td>
-      <td>1361.0</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>mu[female]</th>
-      <td>125.016</td>
-      <td>1.464</td>
-      <td>122.195</td>
-      <td>127.528</td>
-      <td>0.030</td>
-      <td>0.021</td>
-      <td>2347.0</td>
-      <td>1394.0</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>mu[male]</th>
-      <td>129.841</td>
-      <td>1.527</td>
-      <td>127.085</td>
-      <td>132.664</td>
-      <td>0.028</td>
-      <td>0.020</td>
-      <td>2989.0</td>
-      <td>1338.0</td>
-      <td>1.0</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** | **mcse_mean** | **mcse_sd** | **ess_bulk** | **ess_tail** | **r_hat** |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| **mu_hyper** | 124.935 | 9.011 | 107.734 | 141.650 | 0.173 | 0.123 | 2728.0 | 1361.0 | 1.0 |
+| **mu[female]** | 125.016 | 1.464 | 122.195 | 127.528 | 0.030 | 0.021 | 2347.0 | 1394.0 | 1.0 |
+| **mu[male]** | 129.841 | 1.527 | 127.085 | 132.664 | 0.028 | 0.020 | 2989.0 | 1338.0 | 1.0 |
 
 
 
@@ -5415,8 +5285,16 @@ with pm.Model(coords=coords) as fullModel:
     b_treatment = pm.Normal("b_treatment", mu=0, sigma=5)
 
     # likelihood
-    mu = intercept_patient + (b_sex * sex_idx) + (b_age * df['age'].to_numpy()) + (b_treatment * group_idx)
-    likelihood = pm.Normal('likelihood', mu=mu, sigma=5, observed=df['bp'])
+    mu = (intercept_patient + 
+          (b_sex * sex_idx) + 
+          (b_age * df['age'].to_numpy()) +
+          (b_treatment * group_idx)
+         )
+    likelihood = pm.Normal('likelihood',
+                           mu=mu,
+                           sigma=5,
+                           observed=df['bp']
+                          )
     
     idata = pm.sample(4000, tune=4000, target_accept=0.9, chains=4)
 ```
@@ -5466,88 +5344,11 @@ az.summary(idata, var_names=['~intercept_patient'])
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>mean</th>
-      <th>sd</th>
-      <th>hdi_3%</th>
-      <th>hdi_97%</th>
-      <th>mcse_mean</th>
-      <th>mcse_sd</th>
-      <th>ess_bulk</th>
-      <th>ess_tail</th>
-      <th>r_hat</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>intercent_hyper</th>
-      <td>120.746</td>
-      <td>4.137</td>
-      <td>112.950</td>
-      <td>128.308</td>
-      <td>0.298</td>
-      <td>0.211</td>
-      <td>195.0</td>
-      <td>469.0</td>
-      <td>1.03</td>
-    </tr>
-    <tr>
-      <th>b_sex</th>
-      <td>4.226</td>
-      <td>2.047</td>
-      <td>0.241</td>
-      <td>8.006</td>
-      <td>0.033</td>
-      <td>0.024</td>
-      <td>3798.0</td>
-      <td>6611.0</td>
-      <td>1.00</td>
-    </tr>
-    <tr>
-      <th>b_age</th>
-      <td>0.092</td>
-      <td>0.085</td>
-      <td>-0.064</td>
-      <td>0.254</td>
-      <td>0.006</td>
-      <td>0.004</td>
-      <td>201.0</td>
-      <td>517.0</td>
-      <td>1.03</td>
-    </tr>
-    <tr>
-      <th>b_treatment</th>
-      <td>-0.082</td>
-      <td>2.018</td>
-      <td>-3.844</td>
-      <td>3.736</td>
-      <td>0.033</td>
-      <td>0.023</td>
-      <td>3745.0</td>
-      <td>6279.0</td>
-      <td>1.00</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
+|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** | **mcse_mean** | **mcse_sd** | **ess_bulk** | **ess_tail** | **r_hat** |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| **mu_hyper** | 124.935 | 9.011 | 107.734 | 141.650 | 0.173 | 0.123 | 2728.0 | 1361.0 | 1.0 |
+| **mu[female]** | 125.016 | 1.464 | 122.195 | 127.528 | 0.030 | 0.021 | 2347.0 | 1394.0 | 1.0 |
+| **mu[male]** | 129.841 | 1.527 | 127.085 | 132.664 | 0.028 | 0.020 | 2989.0 | 1338.0 | 1.0 |
 
 
 
