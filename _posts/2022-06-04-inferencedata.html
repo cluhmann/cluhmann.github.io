@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Coordinates in PyMC & InferenceData Objects
+layout: post
 ---
 <!DOCTYPE html>
 <html>
@@ -14583,7 +14583,8 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>PyMC v4 is here and one of the big changes is that the inference routines (e.g., <code>pm.sample()</code>) will return an <a href="https://arviz-devs.github.io/arviz/">ArviZ</a> InferenceData object by default (recent releases of PyMV3 have made this optional).  This post is intended to explore a bit about how the InferenceData object works, how it intersects with PyMC parameter arrays and how the labeling of dimensions and coordinates can make life easier.  If you haven't already checked out <a href="https://oriolabril.github.io/oriol_unraveled/python/arviz/pymc3/xarray/2020/09/22/pymc3-arviz.html">Oriol Abril's fantastic post about PyMC, coords, and dims</a>, I would strongly encourage you to do so.</p>
+
+<p><a href="https://www.pymc.io">PyMC</a> v4 is here and one of the big changes is that the inference routines (e.g., <code>pm.sample()</code>) will return an <a href="https://arviz-devs.github.io/arviz/">ArviZ</a> InferenceData object by default (recent releases of PyMV3 have made this optional).  This post is intended to explore a bit about how the InferenceData object works, how it intersects with PyMC parameter arrays and how the labeling of dimensions and coordinates can make life easier.  If you haven't already checked out <a href="https://oriolabril.github.io/oriol_unraveled/python/arviz/pymc3/xarray/2020/09/22/pymc3-arviz.html">Oriol Abril's fantastic post about PyMC, coords, and dims</a>, I would strongly encourage you to do so.</p>
 <p>Oriol's post focuses on the use of labeled dimensions in PyMC models and how Arviz acknowledges and utilizes the labels when processing the prior/posterior (e.g., plotting).  Here, I want to focus on how named dimensions/cooridnates can be used to create parameter arrays, contrasting it with the way things were done in PyMC3.  I will also illustrate how to these coordinates structure the InferenceData objects in which our posterior is stored.</p>
 <h2 id="Table-of-Contents">Table of Contents<a class="anchor-link" href="#Table-of-Contents">&#182;</a></h2><ul>
 <li><a href="#xarray">xarray</a></li>
