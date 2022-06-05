@@ -2902,17 +2902,17 @@ Attributes:
 
 
 ```python
-az.summary(unlabeled_idata)
+az.summary(unlabeled_idata, kind="stats")
 ```
 
 
 
 
-|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** | **mcse_mean** | **mcse_sd** | **ess_bulk** | **ess_tail** | **r_hat** |
-|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **mu_hyper** | 125.10 | 9.01 | 107.84 | 141.25 | 0.17 | 0.12 | 2773.0 | 1555.0 | 1.0 |
-| **mu[0]** | 124.98 | 1.48 | 122.39 | 127.97 | 0.02 | 0.01 | 2898.0 | 1531.0 | 1.0 |
-| **mu[1]** | 129.87 | 1.46 | 127.11 | 132.52 | 0.02 | 0.01 | 2902.0 | 1537.0 | 1.0 |
+|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** |
+|---:|:---:|:---:|:---:|:---:|
+| **mu_hyper** | 125.10 | 9.01 | 107.84 | 141.25 |
+| **mu[0]** | 124.98 | 1.48 | 122.39 | 127.97 |
+| **mu[1]** | 129.87 | 1.46 | 127.11 | 132.52 |
 
 
 We can also investigate the posterior directly.  Let's calculate the means of each group.
@@ -3778,17 +3778,17 @@ with labeled_model:
 
 
 ```python
-az.summary(labeled_idata)
+az.summary(labeled_idata, kind="stats")
 ```
 
 
 
 
-|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** | **mcse_mean** | **mcse_sd** | **ess_bulk** | **ess_tail** | **r_hat** |
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **mu_hyper** | 124.93 | 9.01 | 107.73 | 141.65 | 0.17 | 0.12 | 2728.0 | 1361.0 | 1.0 |
-| **mu[female]** | 125.01 | 1.46 | 122.19 | 127.528 | 0.03 | 0.02 | 2347.0 | 1394.0 | 1.0 |
-| **mu[male]** | 129.84 | 1.52 | 127.08 | 132.66 | 0.02 | 0.02 | 2989.0 | 1338.0 | 1.0 |
+|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** | 
+|---:|:---:|:---:|:---:|:---:|
+| **mu_hyper** | 124.93 | 9.01 | 107.73 | 141.65 |
+| **mu[female]** | 125.01 | 1.46 | 122.19 | 127.528 |
+| **mu[male]** | 129.84 | 1.52 | 127.08 | 132.66 |
 
 
 
@@ -5338,17 +5338,17 @@ with pm.Model(coords=coords) as fullModel:
 ```python
 # inspect the descriptive statistics
 # omit the per-patient intercepts
-az.summary(idata, var_names=['~intercept_patient'])
+az.summary(idata, var_names=['~intercept_patient'], , kind="stats")
 ```
 
 
 
 
-|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** | **mcse_mean** | **mcse_sd** | **ess_bulk** | **ess_tail** | **r_hat** |
-|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| **mu_hyper** | 124.93 | 9.01 | 107.73 | 141.65 | 0.17 | 0.123 | 2728.0 | 1361.0 | 1.0 |
-| **mu[female]** | 125.01 | 1.46 | 122.19 | 127.52 | 0.03 | 0.02 | 2347.0 | 1394.0 | 1.0 |
-| **mu[male]** | 129.84 | 1.52 | 127.08 | 132.66 | 0.02 | 0.020 | 2989.0 | 1338.0 | 1.0 |
+|  | **mean** | **sd** | **hdi_3%** | **hdi_97%** |
+|---:|:---:|:---:|:---:|:---:|
+| **mu_hyper** | 124.93 | 9.01 | 107.73 | 141.65 |
+| **mu[female]** | 125.01 | 1.46 | 122.19 | 127.52 |
+| **mu[male]** | 129.84 | 1.52 | 127.08 | 132.66 |
 
 
 
