@@ -1,20 +1,18 @@
 ---
 title: Coordinates in PyMC & InferenceData Objects
 layout: post
+image:
+    path: ../images/logo2.png
+    width: 256
+    height: 223
+
 ---
 <!DOCTYPE html>
 <html>
-<head><meta charset="utf-8" />
+<head>
+<meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Search Engine -->
-<meta name="description" content="PyMC v4 is here and one of the big changes is that the inference routines (e.g., pm.sample()) will return an ArviZ InferenceData object by default (recent releases of PyMV3 have made this optional). This post is intended to explore a bit about how the InferenceData object works, how it intersects with PyMC parameter arrays and how the labeling of dimensions and coordinates can make life easier.">
-<meta name="image" content="https://cluhmann.github.io/images/logo2.png">
-<!-- Schema.org for Google -->
-<meta itemprop="description" content="PyMC v4 is here and one of the big changes is that the inference routines (e.g., pm.sample()) will return an ArviZ InferenceData object by default (recent releases of PyMV3 have made this optional). This post is intended to explore a bit about how the InferenceData object works, how it intersects with PyMC parameter arrays and how the labeling of dimensions and coordinates can make life easier.">
-<meta itemprop="image" content="https://cluhmann.github.io/images/logo2.png">
-<!-- Open Graph general (Facebook, Pinterest & Google+) -->
-<meta name="og:description" content="PyMC v4 is here and one of the big changes is that the inference routines (e.g., pm.sample()) will return an ArviZ InferenceData object by default (recent releases of PyMV3 have made this optional). This post is intended to explore a bit about how the InferenceData object works, how it intersects with PyMC parameter arrays and how the labeling of dimensions and coordinates can make life easier.">
-<meta name="og:type" content="website">
+
 
 <title>inferenceobject</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
