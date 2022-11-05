@@ -34,6 +34,7 @@ footer-links:
 mastodon:
 - username: 1010is10
   instance: fosstodon.org
+<a rel="me" href="https://fosstodon.org/@1010is10">Mastodon</a>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
