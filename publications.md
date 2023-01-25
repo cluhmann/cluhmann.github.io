@@ -8,6 +8,8 @@ Maswood, R., Luhmann, C. C., & Rajaram, S. (2022). Persistence of false memories
  
 Torres, J. M. M., Clarkson, T., Hauschild, K. M., Luhmann, C. C., Lerner, M. D., & Riccardi, G. (2022). Facial emotions are accurately encoded in the neural signal of those with autism spectrum disorder: A deep learning approach. *Biological Psychiatry: Cosgnitive Neuroscience and Neuroimaging*, *7*(7), 688-695.
 
+[Bixter, M. T., & Luhmann, C. C. (2021). The social contagion of temporal discounting in small social networks. Cognitive Research: Principles and Implications, 6(1), 1-10.](https://doi.org/10.1186/s41235-020-00249-y) https://doi.org/10.1186/s41235-020-00249-y
+
 [Imbriano, G., Larsen E. M., Mackin D. M., An A. K., Luhmann C. C., Mohanty A., Jin J. (2021). Online survey of the impact of COVID-19 risk and cost estimates on worry and health behavior compliance in young adults, *Frontiers in Public Health*, *9*, 157, https://doi.org/10.3389/fpubh.2021.612725.](https://www.frontiersin.org/articles/10.3389/fpubh.2021.612725)
 
 [Luhmann, C. C., & Yang, B. (2020). Mechanisms of behavioral contagion: An approximate Bayesian approach. *Proceedings of IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)*, 606-610.](https://ieeexplore.ieee.org/abstract/document/9381449)
