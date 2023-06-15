@@ -105,7 +105,7 @@ The following in a fictional conversation between an author and an editor/review
 
 **ERG**: And confidence intervals!
 
-**Author**: Well I provided an effect size.  I am interested in the relationship between country and park size with a specific focus on how much larger the parks from Country B are than the parks in Country A.  That effect is best thought of as a difference.  The size of that difference in the parks I sampled is 10 square kilometers.
+**Author**: Well I provided an effect size.  I am interested in the relationship between country and park size with a specific focus on how much larger the parks from Country B are than the parks in Country A.  That effect is best thought of as a difference.  The size of that difference in the parks I sampled is 20 square kilometers.
 
 **ERG**: What you describe is far too simplistic to be considered consistent with the _very progressive_ statistical approaches advocated by the journal.
 
