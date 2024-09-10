@@ -8,7 +8,7 @@ permalink: /people/
 ![Christian Luhmann](/images/cluhmann.png)
 
 * Chief Operating Officer, [PyMC Labs](https://www.pymc-labs.com/)
-* Professor, Stony Brook University
+* Professor, Stony Brook University (2008-2024)
   * Department of Psychology
   * Department of Computer Science
   * Institute for Advanced Computional Science
