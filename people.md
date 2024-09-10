@@ -19,21 +19,22 @@ permalink: /people/
 * 2000–2006 PhD under Woo-kyoung Ahn (Vanderbilt University)
 
 
-## Mengxing Wang
+## PhD Students
+### Mengxing Wang
 ![Mengxing](/images/mengxing.png)
 
 PhD Student  
-Clinical Psychology (2019-current)  
-Mengxing is interested in the mechanisms and classification of psychopathology.
+Social & Health Psychology (2019-current)  
+Mengxing is interested in applying sophisticated statistical approaches to better understand mental health and aging.
 
-## Medhini Urs
+### Medhini Urs
 ![Medhini](/images/medhini.png)
 
 PhD Student  
 Cognitive Science (2020-current)  
-Medhini is interested in the cognitive factors involved in economic and social decision-making.
+Medhini is interested in the cognitive and social factors involved in economic and social decision-making.
 
-## Weiling Li
+### Weiling Li
 ![Weiling](/images/weiling.png)
 
 PhD Student  
@@ -41,7 +42,7 @@ Cognitive Science (2021-current)
 Weiling is interested in how AI affects decision-making processes in both individuals and groups. 
 
 
-## Former students
+### Former students
 Alexandra Ortmann (PhD, 2024)  
 Kelli Johnson (PhD, 2020)  
 Philip Loatman (PhD, 2019)  
