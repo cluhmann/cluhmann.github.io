@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 ## Christian Luhmann
-![Christian Luhmann](/images/cluhmann.jpg)
+![Christian Luhmann](/images/cluhmann.png)
 
 * Chief Operating Officer, [PyMC Labs](https://www.pymc-labs.com/)
 * Professor, Stony Brook University
