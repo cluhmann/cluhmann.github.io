@@ -7,7 +7,7 @@ permalink: /people/
 ## Christian Luhmann
 ![Christian Luhmann](/images/cluhmann.jpg)
 
-* C-Suite 
+* Chief Operating Officer, [PyMC Labs](https://www.pymc-labs.com/)
 * Professor, Stony Brook University
   * Department of Psychology
   * Department of Computer Science
@@ -42,7 +42,7 @@ Weiling is interested in how AI affects decision-making processes in both indivi
 
 
 ## Former students
-Alexandra Ortmann (PhD, 2024)
+Alexandra Ortmann (PhD, 2024)  
 Kelli Johnson (PhD, 2020)  
 Philip Loatman (PhD, 2019)  
 Elizabeth Trimber (PhD, 2018)  
