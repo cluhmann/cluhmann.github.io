@@ -13,7 +13,7 @@ site_name = "Christian C. Luhmann"
 #[project.plugins.blog]
 nav = [
     { "Home" = "index.md" },
-    { "Blog" = "blog.md" }
+    { "Blog" = "blog/index.md" }
 ]
 
 # extra_css = ["stylesheets/extra.css"]
